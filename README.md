@@ -1,6 +1,6 @@
 # MICROSERVICE DE ENVIO DE EMAIL
 
-Esse é um micro serviço criado para o envio de e-mail feito em Java. 
+Esse é um micro serviço criado para o envio de e-mail feito em Java e utilizando o RabbitMQ. 
 
 
 
